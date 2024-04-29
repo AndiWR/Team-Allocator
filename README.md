@@ -27,5 +27,5 @@ Pretty straightforward, the program will allocate the team member into 2 team an
 
 <h3>Planned Feature</h3>
 1. Change the team member name in list into player number to address customized team member allocation,<br/>
-2. Customize the number of team (more than 2 team)
-3. I want to make the program to be able to allocate all team member although the total of team member is uneven or the total of team to be made are uneven 
+2. Customize the number of team (more than 2 team), <br/>
+3. I want to make the program to be able to allocate all team member although the total of team member or the total of team to be made are uneven.

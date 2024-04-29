@@ -2,7 +2,7 @@
 <h1>Team Allocator Program</h1>
 
 <h3>Purpose</h3>
-I'm an acocuntant who trying to learn data analysis, I make this program mainly to learn and familiarize myself with python, but feel free to use it.
+I'm an acocuntant who trying to learn data analysis, I write this program as an exercise to learn and familiarize myself with python, but feel free to use it.
 <br/>
 <br/>
 
@@ -28,4 +28,4 @@ Pretty straightforward, the program will allocate the team member into 2 team an
 <h3>Planned Feature</h3>
 1. Change the team member name in list into player number to address customized team member allocation,<br/>
 2. Customize the number of team (more than 2 team)
-3. I want to make the program to be able to allocateall team member even if: the total of team member is uneven or the total of team to be made are uneven 
+3. I want to make the program to be able to allocate all team member although the total of team member is uneven or the total of team to be made are uneven 

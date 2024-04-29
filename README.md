@@ -8,8 +8,8 @@ I'm an acocuntant who trying to learn data analysis, I make this program mainly 
 
 <h3>Assumption</h3>
 What I've learned from this project:<br/>
-1. Creating list in python,
-2. Loops in python
+1. Creating list in python,<br/>
+2. Loops in python,<br/>
 <br/>
 <br/>
 

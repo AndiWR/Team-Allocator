@@ -7,6 +7,13 @@ I'm an acocuntant who trying to learn data analysis, I make this program mainly 
 <br/>
 
 <h3>Assumption</h3>
+What I've learned from this project:<br/>
+1. Creating list in python,
+2. Loops in python
+<br/>
+<br/>
+
+<h3>Assumption</h3>
 1. The total number of the team member are even,<br/>
 2. The name of the team member in the list are fixed,<br/>
 3. The program allocate all team member into 2 teams.<br/>
@@ -14,7 +21,7 @@ I'm an acocuntant who trying to learn data analysis, I make this program mainly 
 <br/>
 
 <h3>How to Use it</h3>
-Pretty straightforward, the program will allocate the team member into 2 team and also select one of the team member as Captain. You can allocate the team memebr many times until you're statisfied with the team allocation
+Pretty straightforward, the program will allocate the team member into 2 team and also select one of the team member as Captain. You can allocate the team member many times until you're statisfied with the team allocation
 <br/>
 <br/>
 

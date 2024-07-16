@@ -6,8 +6,7 @@ I'm an acocuntant who trying to learn data analysis, I write this program as an 
 <br/>
 <br/>
 
-<h3>Assumption</h3>
-What I've learned from this project:<br/>
+<h3>What I've learned from this project:</h3>
 1. Creating list in python,<br/>
 2. Loops in python,<br/>
 <br/>
